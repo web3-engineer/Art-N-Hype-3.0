@@ -10,7 +10,7 @@ simplificadas para atender ao público brasileiro. Entre elas estão:
 5. bingo, sorteios, jogos do bicho e outras formas puramente brasileiras de sorteio de NFTs.
 6. troca de NFTs em objetos reais, ou em objetos de diferentes marketplaces.
 7. O objetivo do aplicativo é ser a plataforma completa de NFTs. 
-
+wwuhduwhiuwhiuWHIDUwhdiuWOHDUIwhoiuhWSIUHWiuhzHZIUhziuhWUHSUIwhduWD
 
 para conseguir isso, precisamos contar com a segurança das provas de conhecimento zero para
 garantir privacidade nos dados do usuário, além de maior segurança contra hacks e outras
